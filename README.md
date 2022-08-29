@@ -1,5 +1,5 @@
 # Movie API
-An API to manage, search, and like/dislike movies.
+An API to manage, search, and like/dislike movies
 
 # App Instructions
 1) `cd` to the project root on your Terminal
