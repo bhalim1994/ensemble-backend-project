@@ -16,7 +16,7 @@ An API to manage, search, and like/dislike movies.
 
 
 # Project Layout
-1) `api/\_\_init__.py` - Initializes the application
+1) `api/__init__.py` - Initializes the application
 2) `api/models.py` - Contains the Movie model
 3) `api/views.py` - Contains the API routes
 4) `create_db.py` - Simple script to create the database for the first time
